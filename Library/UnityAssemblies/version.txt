@@ -1,0 +1,13 @@
+5.5.0f3:2.8.0.0
+Android
+E:/UnityEngine/Editor/Data/Managed/UnityEngine.dll
+E:/UnityEngine/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll
+E:/UnityEngine/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+E:/UnityEngine/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+E:/UnityEngine/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll
+E:/UnityEngine/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+E:/UnityEngine/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+E:/UnityEngine/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll
+E:/UnityEngine/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll
+E:/UnityEngine/Editor/Data/Managed/UnityEditor.dll
+E:/UnityEngine/Editor/Data/Managed/Mono.Cecil.dll
